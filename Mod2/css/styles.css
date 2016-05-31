@@ -45,10 +45,12 @@ p {
 }
 
 .menu-container {
+    height: 200px;
     margin: 10px;
     border: 1px solid black;
     background-color: gray;
     position: relative;
+    overflow: hidden;
 }
 
 @media (min-width: 992px) {

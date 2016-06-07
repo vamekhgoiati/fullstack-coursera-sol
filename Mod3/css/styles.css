@@ -27,7 +27,9 @@ h3 {
 #nav-list a {
     text-align: center;
 }
-
+ #nav-list li hr {
+     width: 50%;
+ }
 #header-nav {
     border-radius: 0;
 }
